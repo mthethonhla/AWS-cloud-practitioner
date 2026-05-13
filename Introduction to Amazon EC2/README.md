@@ -7,3 +7,4 @@ This repository documents my hands-on experience with Amazon Elastic Compute Clo
 * **Security & Hardening:** Firewall configuration, principle of least privilege, and accidental deletion prevention.
 * **Automation:** Infrastructure bootstrapping using shell scripts (User Data).
 * **Scalability:** Horizontal and vertical resource adjustments.
+<img width="1366" height="768" alt="Screenshot (125)" src="https://github.com/user-attachments/assets/39e6f43b-c9cb-4fc1-a3c5-962954c10b51" />
