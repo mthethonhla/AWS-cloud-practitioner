@@ -1,0 +1,1 @@
+This repo is about my AWS cloud practitioner journey.
