@@ -9,10 +9,13 @@ Use tab autocomplete to speed up command entry.
 
 
 Task 1: Use SSH to connect to an Amazon Linux EC2 instance
+<br>
 ![alt text](task1.PNG)
 
 Task 2: Run familiar commands
+<br>
 ![alt text](task2.2.PNG)
 
 Task 3: Improve workflow through history and search
+<br>
 ![alt text](task3.1.PNG)
